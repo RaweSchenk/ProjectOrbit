@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 54 54">
+  <g id="buttonMap" transform="translate(-153 -581)">
+    <circle id="Ellipse_5" data-name="Ellipse 5" cx="27" cy="27" r="27" transform="translate(153 581)" fill="#1d1d1d" opacity="0.56"/>
+    <g id="Group_79" data-name="Group 79" transform="translate(163.577 591.159)" opacity="0.483">
+      <circle id="XMLID_30_" cx="12.022" cy="12.022" r="12.022" transform="matrix(0.964, -0.265, 0.265, 0.964, 2.134, 8.499)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="XMLID_29_" d="M34.5,38.442,39.12,37.2l-1.242,4.62-.894-2.534Z" transform="translate(-20.67 -22.029)" fill="#fff"/>
+      <circle id="XMLID_28_" cx="19.673" cy="19.673" r="19.673" transform="translate(-6.577 1.996) rotate(-12.585)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2.25"/>
+      <path id="XMLID_27_" d="M39.1,57.791l.795-1.391.795,1.391Z" transform="translate(-22.985 -31.69)" fill="#fff"/>
+      <path id="XMLID_26_" d="M52.2,53.34l-.4-1.54,1.54.4Z" transform="translate(-29.376 -29.376)" fill="#fff"/>
+      <path id="XMLID_25_" d="M57.791,40.69,56.4,39.895l1.391-.795Z" transform="translate(-31.69 -22.985)" fill="#fff"/>
+      <path id="XMLID_24_" d="M53.34,27.643l-1.54.4.4-1.54Z" transform="translate(-29.376 -16.645)" fill="#fff"/>
+      <path id="XMLID_23_" d="M40.69,22.2l-.795,1.391L39.1,22.2Z" transform="translate(-22.985 -14.481)" fill="#fff"/>
+      <path id="XMLID_22_" d="M27.643,26.5l.4,1.54-1.54-.4Z" transform="translate(-16.645 -16.645)" fill="#fff"/>
+      <path id="XMLID_21_" d="M22.2,39.1l1.391.795L22.2,40.69Z" transform="translate(-14.481 -22.985)" fill="#fff"/>
+      <path id="XMLID_20_" d="M26.5,52.2l1.54-.4-.4,1.54Z" transform="translate(-16.645 -29.376)" fill="#fff"/>
+      <rect id="XMLID_18_" width="0.248" height="8.843" stroke-width="0.25" fill="#fff" stroke="#fff" stroke-miterlimit="10" transform="translate(16.761 -0.726)"/>
+      <rect id="XMLID_17_" width="8.843" height="0.248" stroke-width="0.25" fill="#fff" stroke="#fff" stroke-miterlimit="10" transform="translate(-0.726 16.761)"/>
+      <rect id="XMLID_14_" width="0.248" height="8.843" stroke-width="0.25" fill="#fff" stroke="#fff" stroke-miterlimit="10" transform="translate(16.761 25.753)"/>
+      <rect id="XMLID_13_" width="8.843" height="0.248" stroke-width="0.25" fill="#fff" stroke="#fff" stroke-miterlimit="10" transform="translate(25.753 16.761)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="380" height="1487" viewBox="0 0 380 1487">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.999;
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.532" y1="1.071" x2="0.5" y2="-0.038" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f9a001"/>
+      <stop offset="0.179" stop-color="#f47d34"/>
+      <stop offset="0.542" stop-color="#ef5965"/>
+      <stop offset="1" stop-color="#e15463"/>
+    </linearGradient>
+  </defs>
+  <rect id="bkgrd_CoralBurst" class="cls-1" width="380" height="1487"/>
+</svg>
