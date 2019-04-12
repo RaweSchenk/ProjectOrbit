@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SpacecraftPart
+  - Satellite
+  - Imager
+  - GRNSpectro
+  - Body
+  - FuelCell
+  - Connector
+  - Magenetometer
+  - Panel
+  - Astronaut
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - ARGameObject
+  - Map
+  - Path
+  - Both
+  - PsycheLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: SpacecraftCollider
+    uniqueID: 1272458931
+    locked: 0
